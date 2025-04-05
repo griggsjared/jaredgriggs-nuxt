@@ -7,7 +7,7 @@ defineProps<{
 <template>
   <div class="border-6 border-solid border-green overflow-hidden">
     <NuxtImg
-      src="images/portrait2.jpg"
+      src="images/portrait.jpg"
       class="w-full h-full object-cover"
       :alt="'Portrait of ' + name"
       loading="eager"
